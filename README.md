@@ -9,7 +9,7 @@ The model outputs a 3 channels tensor which is converted into an image of ".png"
 The data is augmented prior to the training ( Flip horizontal , Rotate 180 ) to over sample the training dataset.    
 
 ------------------------
-Please refer to folder.png for the folder structure.
+Please refer to folder_structure.png for the folder structure.
 
 Make sure you have cuda enabled machine. I used AWS Sagemaker to get ready made enviroment.
 
