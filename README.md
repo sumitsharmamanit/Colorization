@@ -23,6 +23,7 @@ Instruction to run the code:
 
 -----------------------
 ## Required Library
+-----------------------
 matplotlib==3.5.1
 numpy==1.22.1
 opencv-python==4.5.5.62
