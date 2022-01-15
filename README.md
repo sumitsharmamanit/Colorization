@@ -20,7 +20,7 @@ Instruction to run the code:
 2. `pip install requirments.txt`
 3. Execute training.ipynb notebook file
 4. for prediction, use predict.ipynb. There are two modes: 1. bulk prediction 2. single image prediction
-
+5. place the best weight under checkpoints folder
 -----------------------
 ## Required Library
 -----------------------
