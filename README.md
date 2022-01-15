@@ -37,6 +37,6 @@ tqdm==4.62.3
 
 Best Weight file
 ```
-https://drive.google.com/file/d/1dZBjzAy5t9W6Du_GJZPf70RUBkCOpFG3/view?usp=sharing
+https://drive.google.com/file/d/1MpPIH1KbQSNcNo3UQYjuBPV7JSrnaF_e/view?usp=sharing
 ```
 -----------------
